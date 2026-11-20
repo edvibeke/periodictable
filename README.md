@@ -97,4 +97,3 @@ Edvibe - https://edvibe.co.ke/aboutus.php
 ## Credits
 
 Built and maintained by the Edvibe team.
-" filePath="/home/ninja/Desktop/opencode/periodictable/README.md
