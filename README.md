@@ -23,9 +23,13 @@ The Edvibe Interactive Periodic Table is a fully responsive, web-based education
 |---|---|
 | Markup | HTML5 |
 | Styling | CSS3 |
-| Logic | Vanilla JavaScript |
-| DOM Utilities | jQuery 3.6.0 |
+| Logic | Vanilla JavaScript (ES6+) |
+| Charts | Chart.js |
 | Typography | Inter (Google Fonts) |
+
+## Version
+
+**2.0.0** - Vanilla JS and Chart.js, no build step, PWA ready. Proprietary license.
 
 ## Getting Started
 
